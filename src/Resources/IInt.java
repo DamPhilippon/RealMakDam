@@ -18,4 +18,13 @@ public class IInt {
 	public static int black_cg= 255;
 	public static int black_cb = 255;
 	
+
+	public static int blue_r = 0;
+	public static int blue_g = 0;
+	public static int blue_b = 255;
+	
+	public static int red_r = 255;
+	public static int red_g = 0;
+	public static int red_b = 0;
+	
 }
